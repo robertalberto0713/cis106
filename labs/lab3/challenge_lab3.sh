@@ -1,11 +1,3 @@
 #!/bin/bash
-echo "The current date is:"
-date -R
-echo " "
-echo "Some information about my system: "
-uname -a
-echo " "
-echo "RAM Information"
-free 
-echo " "
-echo "Challenge Question Complete "
+echo -e "\e[35m“In the middle of the journey of our life I found myself within a dark woods where the straight way was lost.”\e[0m"
+echo -e "\e[1m \e[31m \t― Dante Alighieri, Inferno\e[0m"
