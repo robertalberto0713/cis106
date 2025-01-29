@@ -4,3 +4,5 @@
 
 ![cpufetch](cpufetch.png)
 ![script](script.png)
+
+This is some random text
