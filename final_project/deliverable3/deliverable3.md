@@ -1,11 +1,19 @@
 # Deliverable 3
 
-## Screenshot of the index.html page running on my server
-![sc1](screenshot1.png)
+## Project Repostory
+[Pizza_pizza](https://github.com/robertalberto0713/pizza_pizza)
 
-## Screenshot of the deliverable1.html file running on my server
-![sc2](screenshot2.png)
+## Screenshot of the index.html 
+![sc2](Screenshot1.png)
 
-## Screenshot of the deliverable2.html file running on my server
-![sc3](screenshot3.png)
+## Screenshot2
+![sc2](Screenshot2.png)
 
+## Screenshot3
+![sc3](Screenshot3.png)
+
+## Screenshot4
+![sc4](Screenshot4.png)
+
+## Recording
+![rec](Recording.gif)
